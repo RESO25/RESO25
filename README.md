@@ -1,6 +1,6 @@
 # Olá Mundo! 🌎
 
-Me chamo Raphael Resende, sou desenvolvedor full-stack e formado técnico em Desenvolvimento de Sistemas . Atualmente estou realizando um curso superior em Análise e Desenvolvimento de Sistemas. Procurando sempre melhorar.
+Me chamo Raphael Resende, sou desenvolvedor full-stack e formado técnico em Desenvolvimento de Sistemas. Atualmente estou realizando um curso superior em Análise e Desenvolvimento de Sistemas. Procurando sempre melhorar.
 
 ## Competências 🛠️
 
